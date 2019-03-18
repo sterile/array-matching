@@ -1,6 +1,6 @@
 ﻿namespace array_matching
 {
-    partial class Form1
+    partial class Lab7
     {
         /// <summary>
         /// Required designer variable.

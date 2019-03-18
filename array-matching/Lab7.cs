@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace array_matching
 {
-    public partial class Form1 : Form
+    public partial class Lab7 : Form
     {
-        public Form1()
+        public Lab7()
         {
             InitializeComponent();
         }
